@@ -1,0 +1,10 @@
+﻿Автор проекта: Эмира Эрмекова (Emira Ermekova)
+Проект: Yaldarion — сайт и вселенная фэнтези
+Дата публикации: Июль 2025
+Платформа: ASP.NET WebForms (Visual Studio)
+
+Лицензия: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+Ссылка: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Все текстовые, визуальные и сценарные элементы мира Ялдарион принадлежат автору.
+Запрещено копирование, публикация или переработка без письменного разрешения.

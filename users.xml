@@ -1,0 +1,16 @@
+<users>
+  <!-- Пример пользователя:
+  <user>
+    <username>admin</username>
+    <password>03ac674216f3e15c761ee1a5e255f067953623c8f966bfa6ed8c6e1b1348bb39</password> 
+  </user>
+  -->
+  <user>
+    <username>admin</username>
+    <password>da63ddad2c4bba30d48d55af16dcc7f0b0a986d3b2dac4cd06bd7720896d41c3</password>
+  </user>
+  <user>
+    <username>emira</username>
+    <password>da63ddad2c4bba30d48d55af16dcc7f0b0a986d3b2dac4cd06bd7720896d41c3</password>
+  </user>
+</users>
